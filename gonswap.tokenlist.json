@@ -1,0 +1,22 @@
+{
+  "name": "gonswap",
+  "timestamp": "2022-04-06T22:19:09+00:00",
+  "version": {
+    "major": 145,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+  ],
+  "tokens": [
+    {
+      "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
+      "chainId": 195,
+      "name": "test",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.io/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png"
+    }
+  ],
+  "logoURI": "https://gonswap.com/assets/section_two-e7d03ac3.svg"
+}
