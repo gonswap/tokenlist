@@ -2,20 +2,52 @@
   "name": "gonswap",
   "timestamp": "2022-04-06T22:19:09+00:00",
   "version": {
-    "major": 145,
-    "minor": 0,
-    "patch": 0
+    "major": 1,
+    "minor": 20231230,
+    "patch": 1
   },
   "keywords": [
   ],
   "tokens": [
     {
-      "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
+      "address": "0xFFBDBfafC5369d699C45fDac506D4138570D32A3",
       "chainId": 195,
-      "name": "test",
-      "symbol": "BTC",
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
       "decimals": 18,
-      "logoURI": "https://tokens.1inch.io/0x0327112423f3a68efdf1fcf402f6c5cb9f7c33fd.png"
+      "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/okb.svg"
+    },
+    {
+      "address": "0x162Ea059C8888BFD5d6398d0380adeb371e265AA",
+      "chainId": 195,
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/usdt.svg"
+    },
+    {
+      "address": "0x1e69698166A6432466039D4a1c1c67a813147B38",
+      "chainId": 195,
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/usdc.svg"
+    },
+    {
+      "address": "0x41625efc27e0A54a76F976228002e1Dd6bC911be",
+      "chainId": 195,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/btc.svg"
+    },
+    {
+      "address": "0x9455d2bff38847efc60a426E87B10ff29f1341D1",
+      "chainId": 195,
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/eth.svg"
     }
   ],
   "logoURI": "https://gonswap.com/assets/section_two-e7d03ac3.svg"
