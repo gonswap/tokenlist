@@ -10,45 +10,53 @@
   ],
   "tokens": [
     {
-      "address": "0xFFBDBfafC5369d699C45fDac506D4138570D32A3",
-      "chainId": 195,
+      "address": "0xe538905cf8410324e03a5a23c1c177a474d59b2b",
+      "chainId": 196,
       "name": "Wrapped OKB",
       "symbol": "WOKB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/okb.svg"
     },
     {
-      "address": "0x162Ea059C8888BFD5d6398d0380adeb371e265AA",
-      "chainId": 195,
+      "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+      "chainId": 196,
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/usdt.svg"
     },
     {
-      "address": "0x1e69698166A6432466039D4a1c1c67a813147B38",
-      "chainId": 195,
+      "address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+      "chainId": 196,
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/usdc.svg"
     },
     {
-      "address": "0x41625efc27e0A54a76F976228002e1Dd6bC911be",
-      "chainId": 195,
+      "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+      "chainId": 196,
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/usdc.svg"
+    },
+    {
+      "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+      "chainId": 196,
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/btc.svg"
     },
     {
-      "address": "0x9455d2bff38847efc60a426E87B10ff29f1341D1",
-      "chainId": 195,
+      "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+      "chainId": 196,
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/eth.svg"
     }
   ],
-  "logoURI": "https://gonswap.com/assets/section_two-e7d03ac3.svg"
+  "logoURI": "https://gonswap.com/gon_logo.svg"
 }
