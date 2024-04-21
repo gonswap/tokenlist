@@ -39,7 +39,7 @@
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/usdc.svg"
+      "logoURI": "https://raw.githubusercontent.com/gonswap/tokenlist/main/icons/dai.svg"
     },
     {
       "address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
